@@ -5,9 +5,6 @@
 
 </div>
 <div align="center">
-  <a href="https://discord.gg/3V5TcfsE8C">
-    <img src="https://discordapp.com/api/guilds/1110950079390547968/widget.png?style=banner2">
-  </a>
 </p>
 </div>
 
@@ -20,9 +17,6 @@ Now, let's talk about the bot's features. It has **OCR** for images, so it can r
 </p>
 
 <div align="center">
-  <a href="https://www.patreon.com/mishalhossin">
-    <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmishalhossin%26type%3Dpatrons&style=for-the-badge" width="250">
-  </a>
 </div>
 
 
@@ -187,7 +181,6 @@ You can Invite your bot using the link in console
 - Invite your bot and DM (Direct message) it | ⚠️ Make sure you have DM enabled
 - if you want it in server channel use **/toggleactive** 
 - For more awesome commands use **/help**
-![image](https://github.com/Pegasus2002/Discord-AI-Chatbot/assets/91066601/6f26c552-751d-4753-bd17-883baf7ee6d5)
 
 # Other ways to run
 ### Using replit to run ☁️
@@ -202,8 +195,6 @@ You can Invite your bot using the link in console
 ![image](https://github.com/Pegasus2002/Discord-AI-Chatbot/assets/91066601/e93b1be7-4706-4b6f-a632-239c4fd16acf)
 
 - Config `secrets` in replit like this
-
-![image](https://github.com/Pegasus2002/Discord-AI-Chatbot/assets/91066601/d629e97a-60d9-4ba4-b4fb-8fc6a8a97831)
 
 ### Using docker to run 🐳
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
